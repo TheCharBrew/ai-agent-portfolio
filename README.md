@@ -1,7 +1,7 @@
-# ai-agent-portfolio
-## AI Agent Portfolio for Charlie Brewer
-### Transforming businesses with AI Strategy and AI Agents. 
-### 20 years experience designing software, startups, platforms, and marketplaces.
+#### ai-agent-portfolio
+# AI Agent Portfolio for Charlie Brewer
+## Transforming businesses with AI Strategy and AI Agents. 
+## 20 years experience designing software, startups, platforms, and marketplaces.
 
 People-first AI product & UX leader for an AI World. Engage with me to begin your AI enterprise transformation.
 
