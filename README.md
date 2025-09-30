@@ -8,6 +8,7 @@ AI Transformation Leader & AI Agent Builder (MindStudio, SimpleAcademy)|  Direct
 I'm a people-first AI product & UX leader for the AI World. Engage with me to begin your AI enterprise transformation.
 
 More about me here: [http://www.charliebrewer.com](http://www.charliebrewer.com)
+
 charles.brewer@gmail.com
 
 I built 15 AI Agents over the last few weeks as cohort member with [Mindstudio.ai](https://www.mindstudio.ai/). 
