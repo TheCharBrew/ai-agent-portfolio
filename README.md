@@ -12,11 +12,15 @@ More about me here: [http://www.charliebrewer.com](http://www.charliebrewer.com)
 charles.brewer@gmail.com
 
 I built 15 AI Agents over the last few weeks as cohort member with [Mindstudio.ai](https://www.mindstudio.ai/). 
-This has been a career and life changing experience. This is only the beginning of an age of change and abundance. 
+This has been a career and life changing experience. 
+
+This is the beginning of an age of change, growth and abundance. 
 
 # 🧠 AI Agent Portfolio
 
 Welcome to my collection of specialized AI agents designed to streamline workflows, boost productivity, and automate complex tasks. Each agent is crafted to solve specific business challenges, from content creation to research and communication management.
+
+Note: Some of the AI agents below require your own MindStudio account to run. They are offered here as proof of work. Selected agents will be publicly available soon.
 
 ---
 
