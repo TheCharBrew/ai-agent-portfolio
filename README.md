@@ -6,11 +6,9 @@
 
 | Agent | Description | Launch |
 |-------|-------------|--------|
-| [📋 Research Agent](./agents/research-agent.md) | Searches and summarizes web content | [▶ Launch](https://your-host.com/research) |
-| [✍️ Writer Agent](./agents/writer-agent.md) | Drafts and edits long-form content | [▶ Launch](https://your-host.com/writer) |
-| [📊 Data Agent](./agents/data-agent.md) | Analyzes and visualizes datasets | [▶ Launch](https://your-host.com/data) |
-
-
+/| [📋 Research Agent](./agents/research-agent.md) | Searches and summarizes web content | [▶ Launch](https://your-host.com/research) |
+/| [✍️ Writer Agent](./agents/writer-agent.md) | Drafts and edits long-form content | [▶ Launch](https://your-host.com/writer) |
+/| [📊 Data Agent](./agents/data-agent.md) | Analyzes and visualizes datasets | [▶ Launch](https://your-host.com/data) |
 
 
 
