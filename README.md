@@ -4,7 +4,7 @@
 
 
 # AI Agent Portfolio for Charlie Brewer
-## Transforming businesses with AI Strategy and AI Agents. 
+## AI Agents and Workflows
 
 Hi, I'm Charlie. 
 
@@ -19,11 +19,9 @@ More about me here: [http://www.charliebrewer.com](http://www.charliebrewer.com)
 charles.brewer@gmail.com
 
 
----
-
 ## 📬 Contact Me
 
-Ready to transform your workflow with custom AI agents? I specialize in creating intelligent automation solutions that save time and boost productivity.
+Ready to transform your workflows with custom AI agents? I specialize in creating intelligent automation solutions that save time and boost productivity.
 
 **I can help you with:**
 - **Custom AI agent development**
@@ -33,4 +31,4 @@ Ready to transform your workflow with custom AI agents? I specialize in creating
 
 Interested in collaborating or need a custom AI solution? Let's connect and discuss how we can streamline your operations with intelligent automation.
 
-[📧 Get in touch](mailto:contact@example.com) | [💼 Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+[📧 Get in touch](mailto:charles.brewer@gmail.com) | [💼 Connect on LinkedIn](https://www.linkedin.com/in/charleshbrewer)
