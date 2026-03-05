@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.github.com/TheCharBrew/assets/agent_portfolio_header.png" width="1024" alt="AI Agent Portfolio Charles Brewer" />
+  <img src="https://github.com/TheCharBrew/assets/blob/main/agent_portfolio_header.png" width="1024" alt="AI Agent Portfolio Charles Brewer" />
 </p>
 
 
