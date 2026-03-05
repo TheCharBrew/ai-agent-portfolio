@@ -1,4 +1,4 @@
-![Agent Portfolio](/assets/agent_portfolio_header.png)
+![Agent Portfolio](../assets/agent_portfolio_header.png)
 # AI Agent Portfolio for Charlie Brewer
 ## Transforming businesses with AI Strategy and AI Agents. 
 
