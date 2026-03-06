@@ -6,7 +6,8 @@
 
 | Agent | Description | Launch |
 |-------|-------------|--------|
-| CB's TL;DR Web Page Summarizer | Personal Browser Extension. Summarizes any web page to save time, grab and share information. I use this all day every day. | [TL;DR Landing Page on MindStudio](https://app.mindstudio.ai/agents/cbs-tldr-web-page-summarizer-6ca585e8)
+| CB’s TL;DR Web Page Summarizer | Personal Browser Extension. Summarizes any web page to save time, share. I use this all day every day. | [TL;DR Landing Page on MindStudio](https://app.mindstudio.ai/agents/cbs-tldr-web-page-summarizer-6ca585e8)|
+|CB’s Email Thread Summarizer | Convert long email chains into a readable summary. Now less useful as discussions happen in Slack, Discord, etc. Likely sunsetting this one. | [Email Summarizer Landing Page on MindStudio](https://app.mindstudio.ai/share/bikDvYfpucdF)|
 
 
 
